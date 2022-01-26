@@ -1,0 +1,6 @@
+module Pods_BGLOOKsApp {
+  umbrella header "Pods-BGLOOKsApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
